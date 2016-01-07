@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kissfish.iml" filepath="$PROJECT_DIR$/Kissfish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KissfishCommon/KissfishCommon.iml" filepath="$PROJECT_DIR$/KissfishCommon/KissfishCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KissfishCore/KissfishCore.iml" filepath="$PROJECT_DIR$/KissfishCore/KissfishCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KissfishWeb/KissfishWeb.iml" filepath="$PROJECT_DIR$/KissfishWeb/KissfishWeb.iml" />
+    </modules>
+  </component>
+</project>

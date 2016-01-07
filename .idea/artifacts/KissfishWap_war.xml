@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="KissfishWap:war">
+    <output-path>$PROJECT_DIR$/KissfishWap/target</output-path>
+    <root id="archive" name="com.kissfish.kissfishWap-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="KissfishWap:war exploded" />
+    </root>
+  </artifact>
+</component>
